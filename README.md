@@ -4,15 +4,23 @@ Using precipitation and weather data from a variety of stations in Hawaii I firs
 
 ### query to retrieve last 12 months of precipitation data: 
 
+![prcp_data](/README_images/12month_prcp_summary.PNG)
 
+precipitation histogram 
+
+![prcp_histo](/README_images/12month_prcp.PNG)
 
 ### query to retrieve available stations: 
 
+![station_count](/README_images/station_count.PNG)
 
+### query to obtain descriptive statistics for last 12 months of temperature observation data(tobs):
 
-### query to obtain last 12 months of temperature observation data(tobs):
+![tobs](/README_images/max_min_avg_temp.PNG)
 
+temperature histogram
 
+![temp_histo](/README_images/temperature histogram)
 
 ### histogram of temperatures at station with most recordings: 
 
