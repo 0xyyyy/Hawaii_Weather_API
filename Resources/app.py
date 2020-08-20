@@ -61,7 +61,9 @@ def welcome():
         f"""Available routes<br/>
             /api/v1.0/precipitation<br/>
             /api/v1.0/station<br/>
-            /api/v1.0/tobs<br/>"""
+            /api/v1.0/tobs<br/>
+            /api/v1.0/startDate<br/>
+            /api/v1.0/startDate/endDate<br/>"""
     )
 
 @app.route('/api/v1.0/precipitation')
