@@ -22,7 +22,7 @@ temperature histogram
 
 ### histogram of temperatures at station with most recordings: 
 
-![temp_histo](/README_images/temperature_histogram)
+![temp_histo](/README_images/temperature_histogram.PNG)
 
 
 ## Climate App 
@@ -31,25 +31,32 @@ temperature histogram
 ###### Home Page
 displays available routes 
 
-
+![homepage](/README_images/home_page.PNG)
 
 ###### Precipitation JSON 
 displays JSON data of precipitation 
 
+![prcp_page](/README_images/prcp_json.PNG)
 
 ###### Stations JSON 
 displays available stations 
 
+![station_json](/README_images/station_json.PNG)
 
 ###### tobs JSON 
 displays temperature data from each station 
 
+![tobs_json](/README_images/tobs_json.PNG)
 
 ###### start and start/end JSON 
 When entering a start date will return the minimum, maximum, and average temperatures for all dates greater than and equal to the start date. 
+for date 2010-01-01:
 
+![start](/README_images/start_json.PNG)
 
 
 When entering a start and end date will return the minimum, maximum, and average temperatures for all dates inclusive. 
+for dates 2010-01-05 to 2010-01-15:
 
+![start_end](/README_images/start_end_json.PNG)
 
